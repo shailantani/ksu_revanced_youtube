@@ -1,6 +1,6 @@
 {
-  "version": "v20.14.43 (patches 5.47.0.rvp)",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/shailantani/ksu_revanced_youtube/releases/download/2/youtube-revanced-magisk-v20.14.43-all.zip",
+  "version": "v20.14.43 (patches 5.48.0.rvp)",
+  "versionCode": 3,
+  "zipUrl": "https://github.com/shailantani/ksu_revanced_youtube/releases/download/3/youtube-revanced-magisk-v20.14.43-all.zip",
   "changelog": "https://raw.githubusercontent.com/shailantani/ksu_revanced_youtube/update/build.md"
 }
